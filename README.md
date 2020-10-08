@@ -11,4 +11,4 @@ pip install speedtest-cli
 Download the speed_test.py file and run it:smile:
 
 ## Help
-You can contact me on [instagram.com](instagram.com/technicalprik)
+You can contact me on [instagram](https://www.instagram.com/technicalprik/)
